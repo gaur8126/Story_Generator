@@ -14,7 +14,7 @@ cd story_generator
  ```
 
 
-#### 3. creare env:
+#### 3. create env:
 ```bash
 conda create -n venv python==3.10 -y
  ```
